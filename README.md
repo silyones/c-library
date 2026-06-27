@@ -55,17 +55,6 @@ app
 ./app
 ```
 
-## Example Output
-
-```text
-Enter 2 numbers: 10 5
-
-Addition = 15
-Subtraction = 5
-Multiplication = 50
-Division = 2.000000
-```
-
 ## Why Use Libraries?
 
 Libraries allow developers to:
